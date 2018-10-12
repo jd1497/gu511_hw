@@ -2,4 +2,4 @@
 template.ipynb
 
 # ignore all answer files until we wish to intentionally publish them
-*.answers.ipynb
+*answers.ipynb
